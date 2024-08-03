@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+DE+Grund:wght@100..400&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    font-family: "Playwrite GB S", cursive;
+    max-width: 80vw;
+}
+
+.navbar{
+    display: flex;
+    height: 67px;
+    font-family: "Playwrite GB S", cursive;
+}
+.navbar li{
+    list-style: square;
+    margin: 0 12px;
+}
+
+.topleft{
+    width: 50%;
+}
+    .topright{
+        width: 50%;
+    
+}
+
+.section1{
+    height: 50vh;
+}
+
+.section2{
+ padding-left: 33px;
+ padding-right: 33px;
+}
+
+.section2 h1{
+    font-size: 2rem;
+}
+
+.box{
+    padding: 8px 0;
+    margin: 12px 22px;
+    min-width: 20vw;
+    border: 2px solid rgb(222, 14, 14);
+    border-radius: 8px;
+    text-align: center;
+}
+
+.highlighted{
+ font-size: 1.5rem;
+ font-weight: bolder;
+}
+
+.box ul{
+    list-style-type: none;
+}
+
+.box ul{
+   margin: 12px 2px;
+}
+
+.plantable{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section3 table{
+    width: 52vw;
+}
+
+.section3 h1{
+    font-size: 2.3rem;
+}
+
+.section3{
+    padding-left: 33px;
+    padding-right: 33px;
+   }
