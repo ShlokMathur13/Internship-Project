@@ -18,5 +18,5 @@ Each directory contains a self-contained project. Simply open the `index.html` o
 
 ## Technologies Used
 - **HTML5**
-- **CSS3**
+- **CSS**
 - **JavaScript (for interactive elements)**
