@@ -1,4 +1,4 @@
-# HTML Projects
+oo# HTML Projects
 
 ## Overview
 Welcome to the HTML Projects repository! This repository contains a collection of HTML projects that I have developed as part of my ongoing practice in web development. The projects here cover a range of fundamental concepts in HTML, along with some CSS and JavaScript for added functionality.
@@ -17,6 +17,6 @@ HTML-Projects/ │ ├── BasicStructure/ │ ├── index.html │ ├─
 Each directory contains a self-contained project. Simply open the `index.html` or the main HTML file in your web browser to view the project. Some projects may include additional files like CSS for styling and JavaScript for interactivity.
 
 ## Technologies Used
-- **HTML5**
+- **HTML**
 - **CSS**
 - **JavaScript (for interactive elements)**
